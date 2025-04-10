@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ####################################################
-#         Salmon pipeline for bulk RNASeq		        #
-#         cankutcubuk [at] {gmail} [dot] {com}     #       
-#                     2025				       	             #      
-#          https://www.qmul.ac.uk/whri/emr/	       #       
-#                @ EMR-QMUL, London, UK		          #    
+#            Salmon pipeline for bulk RNASeq		      
+#         cankutcubuk [at] {gmail} [dot] {com}          
+#                     2025				       	                 
+#          https://www.qmul.ac.uk/whri/emr/	            
+#                @ EMR-QMUL, London, UK		            
 #################################################### 
 
 outdir=$1
