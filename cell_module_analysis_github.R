@@ -12,7 +12,6 @@
 rm(list=ls())
 
 library(Seurat)
-library(edgeR)
 
 load("./norm.vals.RData") # loads norm.vals = normalized gene expression 
 load("./fantom5.RData") # loads modgen = cell-specific gene sets
